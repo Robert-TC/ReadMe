@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular 13<br>🌱 I’m currently learning Front-end Development<br>💬 Junior web developer from Spain<br>⚡  Vfx and gfx
+🔭 I’m currently working on Angular 16<br>🌱 I’m currently learning Front-end Development<br>💬 Junior web developer from Spain<br>⚡  
 
 
 ## 🌐 Socials:
